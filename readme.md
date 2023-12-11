@@ -1,5 +1,5 @@
-## Project HAM LAM
-# A community-driven project for databases, dummy data, APIs, AI [OH GREAT HEAVENS], DNS, Write blocks, and more
+### Project HAM LAM
+## A community-driven project for databases, dummy data, APIs, AI [OH GREAT HEAVENS], DNS, Write blocks, and more
 
 ⚠ Warning | Project HAM LAM is on beta and is being coded on 2023/12/12 [2023 Dec 12]
 
