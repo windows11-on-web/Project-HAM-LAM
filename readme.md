@@ -29,4 +29,10 @@ Deploy [Discord bots, database]
 
 ```pip3 install -r packages.txt && python start.py```
 
-  
+- Now you're done
+
+How to Start an GUI App [Writerblock and Status]
+- Cd to their paths [they are in other folders]
+- and then 
+```python main.py```  
+- Now you have started a gui app [Note: to exit one of those apps Do Ctrl + C]
