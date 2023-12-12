@@ -17,12 +17,16 @@ Custom Made tools
 Deploy [Discord bots, database]
 - Git this repo
 - Cd to path
+
 ```cd Project-HAM-LAM```
+
 - Now go to gemini bots folder and edit discord-bot-mod.py and edit the following line with your discord bot token
 
 ```bot_token = os.getenv("YOUR_BOT_TOKEN")```
+
 - and then edit the .env for the chatbot and same just put the token
 - Go to the root of the folder Then enter this to your cmd
+
 ```pip3 install -r packages.txt && python start.py```
 
   
