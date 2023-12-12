@@ -1,7 +1,7 @@
-### Project HAM LAM
+### Project HAM LAM / Gemini
 ## A community-driven project for databases, dummy data, APIs, AI [OH GREAT HEAVENS], DNS, Write blocks, and more
 
-⚠ Warning | Project HAM LAM is on beta and is being coded on 2023/12/12 [2023 Dec 12]
+⚠ Warning | DNS has been not coded yet due to limits with duckdns and NoIP and its a pain in the balls
 
 This Project uses the following pre-built projects made by windows11-on-web, More are gonna be added
 - Kersonal Database [Dummy data]
