@@ -6,7 +6,6 @@
 This Project uses the following pre-built projects made by windows11-on-web, More are gonna be added
 - Kersonal Database [Dummy data]
 - Mandata EVA [Database localhost]
-- AI Builder [Not uploaded, But beta and is gonna be used for Lily-47.ai debug model]
 
 Custom Made tools
 - Writerblock [With text based GUI]
